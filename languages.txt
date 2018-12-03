@@ -4,4 +4,3 @@ scala
 ruby
 javascript
 c++
-python
